@@ -3,6 +3,7 @@
 192.168.0.106 lumen-pc.home.io
 192.168.0.107 lumen-mac.home.io
 192.168.0.118 cumulus.sherlock.home.io
-192.168.0.103 home.io
 10.0.0.2 pi.hole
 10.0.0.3 secondary.pi.hole
+10.0.0.4 home.io
+10.0.0.5 proxmox.home.io
